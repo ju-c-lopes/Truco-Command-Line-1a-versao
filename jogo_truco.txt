@@ -1,0 +1,19 @@
+
+♦ peso 1
+♠ peso 2
+♥ peso 3
+♣ peso 4
+
+4 peso 1
+5 peso 2
+6 peso 3
+7 peso 4
+Q peso 5
+J peso 6
+K peso 7
+A peso 8
+2 peso 9
+3 peso 10
+
+* Se carta for tombo + 1, recebe peso 11
+
