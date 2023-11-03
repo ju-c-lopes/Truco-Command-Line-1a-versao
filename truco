@@ -1,0 +1,4 @@
+# /bin/bash
+
+python -c "from truco import *"
+
