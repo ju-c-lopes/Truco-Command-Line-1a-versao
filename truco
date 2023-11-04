@@ -1,4 +1,4 @@
-# /bin/bash
+#!/bin/bash
 
-python -c "from truco import *"
+python truco.py
 
